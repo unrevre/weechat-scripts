@@ -1,0 +1,10 @@
+# ignore files without extensions
+*
+!*.*
+!*/
+
+# temporary files
+*.swp
+
+# ignore scripts by default; require explicit addition
+*.py
